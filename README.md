@@ -1,3 +1,11 @@
+## Aleo Rock, Scissors, Paper TX ID
+
+Transaction ID: at130dnzfkxys62td58yd8rf9ghndew2lj97wlm8rzr4yx8lluapupssd7hxj
+
+TX URL : https://explorer.hamp.app/transaction?id=at130dnzfkxys62td58yd8rf9ghndew2lj97wlm8rzr4yx8lluapupssd7hxj
+
+---
+
 # React + Aleo + Leo
 
 [![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/fork/github/AleoHQ/sdk/tree/testnet3/create-aleo-app/template-react-leo)
@@ -88,10 +96,3 @@ Cross-Origin-Embedder-Policy: require-corp
 We've included a `_headers` file that works with some web hosts (e.g. Netlify)
 but depending on your host / server setup you may need to configure the headers
 manually.
-
-## Aleo Rock, Scissors, Paper TX ID
-
-Transaction ID: at130dnzfkxys62td58yd8rf9ghndew2lj97wlm8rzr4yx8lluapupssd7hxj
-
-TX URL : https://explorer.hamp.app/transaction?id=at130dnzfkxys62td58yd8rf9ghndew2lj97wlm8rzr4yx8lluapupssd7hxj
-# aleo_rock_scissors_paper
